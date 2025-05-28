@@ -50,7 +50,3 @@ relaxer-app/
 You can customize the app by editing the `script.js` file. For example:
 
 - **Breathing Timings**: Adjust the `totalTime`, `breathInTime`, and `holdTime` varialbes to change the duration of each step.
-
-## License
-
-This project is licensed under the MIT License.
